@@ -908,6 +908,8 @@ Let your imagination guide you and keep building! 🥹😼
 \
 This is an updated version of her work.
 
+Feel free to ask for help or make any PRs/issues/suggestions 😄
+
 Follow Me!
 \
 💙 Instagram: [@izzyluuuuh](https://www.instagram.com/izzyluuuuh/)
