@@ -30,6 +30,10 @@ React uses a _syntax extension_ called `JSX` that allows you to write HTML-like 
 <!-- This project tutorial is your perfect launchpad to learn React and integrate the Spotify API! -->
 
 ## Setup
+
+### Step Zero. Star This Repo (Mandatory) 🌟
+  * Yes, this step is required.
+
 ### Step 1. Create a Spotify Developer Account
 To access the Spotify API, grab your Spotify account and head over to the [Spotify for Developers](https://developer.spotify.com/) website. There, you'll need to log in. Don't have a Spotify account yet? No worries! You can <kbd>create one<kbd> for free on the [Spotify](https://open.spotify.com/?) website. 
 
